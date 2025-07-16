@@ -1,36 +1,36 @@
-# 👋 Hey there, I'm Savi!
+<h1 align="center">Hi 👋, I'm Savidya Kolonne</h1>
+<h3 align="center">I’m a passionate software engineering student with a growing interest in full stack development, machine learning, and artificial intelligence. I enjoy building modern web applications and constantly exploring new technologies to improve my skills. I’m also the founder of iNLAX, a startup focused on creating innovative digital solutions.</h3>
 
-> ✨ Code | 💡 Create | 🚀 Repeat
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=savidyakolonne&label=Profile%20views&color=0e75b6&style=flat" alt="savidyakolonne" /> </p>
 
-I'm an undergraduate Software Engineering student with a passion for building cool things on the internet, writing clean code, and learning something new every single day. Whether it's front-end magic or back-end logic — I’m here for it.  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=savidyakolonne" alt="savidyakolonne" /></a> </p>
 
----
+<p align="left"> <a href="https://twitter.com/savidyakolonne" target="blank"><img src="https://img.shields.io/twitter/follow/savidyakolonne?logo=twitter&style=for-the-badge" alt="savidyakolonne" /></a> </p>
 
-## 🔧 Tech Stack  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
+- 👨‍💻 My Portfolio [https://savi-k.vercel.app/](https://savi-k.vercel.app/)
 
----
+- 📝 My articles on [https://medium.com/@savidya.kolonne](https://medium.com/@savidya.kolonne)
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaviUserName&show_icons=true&theme=tokyonight" alt="Savi's GitHub stats" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaviUserName&theme=tokyonight" width="48%" />
+- 📫 How to reach me **savidya.kolonne@gmail.com**
+
+- 📄 Know about my experiences [https://savi-k.vercel.app/](https://savi-k.vercel.app/)
+
+- ⚡ Fun fact **Coding...**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/savidyakolonne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="savidyakolonne" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/savidyakolonne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="savidyakolonne" height="30" width="40" /></a>
+<a href="https://instagram.com/savidyakolonne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="savidyakolonne" height="30" width="40" /></a>
+<a href="https://medium.com/savidyakolonne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="savidyakolonne" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/savidya_kolonne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="savidya_kolonne" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/savidyakolonne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="savidyakolonne" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@savidyakolonne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@savidyakolonne" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-## 📫 Let's Connect  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-- 💌 [Email](mailto:your@email.com)  
-- 🌐 [Portfolio](https://your-portfolio.com) *(if you have one)*  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=savidyakolonne&show_icons=true&locale=en&layout=compact" alt="savidyakolonne" /></p>
 
----
-
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
-Let’s build something epic. 🌍💻
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savidyakolonne&" alt="savidyakolonne" /></p>

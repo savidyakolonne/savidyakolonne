@@ -1,20 +1,36 @@
-<h1 align="center">Hi 👋, I'm Savidya Kolonne</h1>
-<h3 align="center">Software Engineering Student | BEng (Hons) Software Engineering (UOW) | IIT</h3>
+# 👋 Hey there, I'm Savi!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=savidyakolonne&label=Profile%20views&color=0e75b6&style=flat" alt="savidyakolonne" /> </p>
+> ✨ Code | 💡 Create | 🚀 Repeat
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=savidyakolonne" alt="savidyakolonne" /></a> </p>
+I'm an undergraduate Software Engineering student with a passion for building cool things on the internet, writing clean code, and learning something new every single day. Whether it's front-end magic or back-end logic — I’m here for it.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/savidyakolonne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="savidyakolonne" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/savidya_kolonne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="savidya_kolonne" height="30" width="40" /></a>
+---
+
+## 🔧 Tech Stack  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
+
+---
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaviUserName&show_icons=true&theme=tokyonight" alt="Savi's GitHub stats" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaviUserName&theme=tokyonight" width="48%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=savidyakolonne&show_icons=true&locale=en&layout=compact" alt="savidyakolonne" /></p>
+## 📫 Let's Connect  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+- 💌 [Email](mailto:your@email.com)  
+- 🌐 [Portfolio](https://your-portfolio.com) *(if you have one)*  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savidyakolonne&" alt="savidyakolonne" /></p>
+---
 
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+
+Let’s build something epic. 🌍💻

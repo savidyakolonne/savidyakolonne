@@ -13,7 +13,7 @@
 - 🛠️ Passionate about building full-stack apps, playing with ML/AI, and all things tech  
 - 🚀 Founder of **iNLAX** — building digital tools for the future  
 - ✍️ Sharing my thoughts on tech on [Medium](https://medium.com/@savidya.kolonne)  
-- 🌐 Check out my work: [savi-k.vercel.app](https://savi-k.vercel.app)  
+- 🌐 Check out my work: [Portfolio](https://savidya-portfolio.vercel.app/)  
 - 📬 Reach me at: **savidya.kolonne@gmail.com**  
 - ⚡ Fun fact: My code probably has more coffee than logic ☕
 

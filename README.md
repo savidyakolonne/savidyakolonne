@@ -17,7 +17,7 @@
 ☕ Caffeinated and coding  
 
 📬 **savidya.kolonne@gmail.com**  
-🌐 Portfolio → https://savidya-portfolio.vercel.app  
+🌐 Portfolio → https://www.savidyakolonne.me/  
 ✍ Medium → https://medium.com/@savidya.kolonne  
 
 ---

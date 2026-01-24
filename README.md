@@ -27,17 +27,14 @@ Software Engineering Undergraduate • Full-Stack Developer • ML & AI Enthusia
 
 ## Skills
 
-**Languages**  
-Java · Python · JavaScript  
-
-**Frontend**  
-React · Angular · Vue · HTML · CSS · Tailwind CSS  
-
-**Backend & Databases**  
-Node.js · Spring Boot · MySQL · MongoDB  
-
-**Tools**  
-Git · GitHub  
+Languages
+<p> <img src="https://skillicons.dev/icons?i=java,python,javascript" /> </p>
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,angular,vue,html,css,tailwind" /> </p>
+Backend & Databases
+<p> <img src="https://skillicons.dev/icons?i=nodejs,spring,mysql,mongodb" /> </p>
+Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github" /> </p>
 
 ---
 

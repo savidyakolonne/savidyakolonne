@@ -20,10 +20,7 @@
     &nbsp;
     <img src="https://komarev.com/ghpvc/?username=savidyakolonne&style=flat-square&color=0ea5e9&label=Profile+Views"/>
   </p>
-
-  <p>
-    💼 <b>Currently Seeking:</b> Software Engineering Internship
-  </p>
+  
 </div>
 
 ---

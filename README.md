@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=120&section=header&text=&fontSize=0" />
 
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=28&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Savi+%F0%9F%91%8B;Software+Engineering+Undergraduate;Full-Stack+Developer;Aspiring+Software+Engineering+Intern" />
+    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=28&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Savi;Software+Engineering+Undergraduate;Full-Stack+Developer;Aspiring+Software+Engineering+Intern" />
   </h1>
 
   <p>

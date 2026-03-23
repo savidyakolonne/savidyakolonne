@@ -85,7 +85,7 @@ I’m particularly interested in:
 ## 📄 Resume
 
 You can view my resume here:  
-👉 **[Download Resume](#)**  
+👉 **[[Download Resume](https://drive.google.com/file/d/1KH0C4Y8FCGgANFxuAZ0d1dLwz5ZgvOgi/view?usp=sharing)](#)**  
 
 ---
 

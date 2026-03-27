@@ -1,9 +1,6 @@
-# Hi there! 👋
+Hi there!👋 Im Savi
 
-I'm Savidya, a Software Engineering undergraduate who loves building things for the web.
-
-I'm interested in creating real-world applications, especially scalable systems and clean backend architectures.
-
+Software Engineering undergraduate who loves building real-world applications, especially scalable systems and clean backend architecture.
 Outside of tech, I like exploring new ideas in AI and keeping up with the latest in software development.
 
 ---

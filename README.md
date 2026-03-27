@@ -32,5 +32,5 @@ Outside of tech, I like exploring new ideas in AI and keeping up with the latest
 
 - Portfolio: https://www.savidyakolonne.me  
 - Medium: https://medium.com/@savidya.kolonne  
-- LinkedIn: https://linkedin.com  
+- LinkedIn: https://linkedin.com/in/savidyakolonne 
 - Email: savidya.kolonne@gmail.com

@@ -1,4 +1,4 @@
-Hi there!👋 Im Savi
+# Hi there!👋 Im Savi
 
 Software Engineering undergraduate who loves building real-world applications, especially scalable systems and clean backend architecture.
 Outside of tech, I like exploring new ideas in AI and keeping up with the latest in software development.
@@ -25,7 +25,7 @@ Outside of tech, I like exploring new ideas in AI and keeping up with the latest
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Let's Connect!
 
 - Portfolio: https://www.savidyakolonne.me  
 - Medium: https://medium.com/@savidya.kolonne  

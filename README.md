@@ -1,4 +1,4 @@
-Hi there!👋 I'm Savi
+Hi there!👋 I'm <a href="https://www.savidyakolonne.me/" target="_blank">Savi</a>
 
 Software Engineering undergraduate who loves building real-world applications, especially scalable systems and clean backend architecture.
 Outside of tech, I like exploring new ideas in AI and keeping up with the latest in software development.

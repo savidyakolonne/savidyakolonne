@@ -20,7 +20,7 @@ Outside of tech, I like exploring new ideas in AI and keeping up with the latest
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker" />
 </p>
 
 ---

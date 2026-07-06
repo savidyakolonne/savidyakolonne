@@ -8,15 +8,15 @@ Outside of tech, I like exploring new ideas in AI and keeping up with the latest
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,javascript,typescript" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,go" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 <p>

@@ -27,9 +27,9 @@ Outside of tech, I like exploring new ideas in AI and keeping up with the latest
 
 ## 📌 Selected Works
 
-* [MedBook](https://github.com/savidyakolonne/medbook)
 * [Traam App](https://github.com/savidyakolonne/traamp-application)
 * [SKB Bank](https://github.com/savidyakolonne/skb-bank)
+* [MedBook](https://github.com/savidyakolonne/medbook)
 
 ---
 
